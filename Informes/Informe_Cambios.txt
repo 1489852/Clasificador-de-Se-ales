@@ -1,0 +1,23 @@
+Informe Inicial => Informe Progreso I
+
+Del informe inicial al informe de progreso I, podemos destacar el
+cambio de que la idea inicial era realizar el clasificador de
+señales para poder instalarlo en un robot y ver su comportamiento.
+Finalmente se desestimo esta idea, para poder enfocarse en comprender
+mejor como funcionan las redes neuronales y instalar el modulo en 
+una aplicación móvil en vez de en el robot.
+
+Informe Progreso I => Informe Progreso II
+
+Del informe de progreso I al informe de Progreso II, no encontramos
+ningun cambio significativo. Se sigue con el desarrolo propuesto
+en el primer informe.
+
+Informe Progreso II => Informe Final
+
+Del Informe de progreso II al informe Final, hay un cambio muy
+grande en cuanto a la cantidad de información. Como cambios mas
+destacables, encontramos el test de las redes neuronales
+con un conjunto de imagenes cogidas de internet y finalemente
+la modificación de la base de datos para obtener mayor porcentaje
+de precisión.
